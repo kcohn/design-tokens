@@ -4,8 +4,7 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "Semantic": "disabled"
+      "global": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:46:1459",
     "$figmaModeId": "46:0",
